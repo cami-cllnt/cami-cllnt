@@ -36,4 +36,4 @@ In addition, I'm always open to learn any other skills related to web developmen
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://http://www.linkedin.com/in/camila-s%C3%A1nchez-collante) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-s%C3%A1nchez-collante) 
