@@ -2,7 +2,7 @@
 
 # ❄ About me 
 I am a software engineer from Bogotá, Colombia, who is interested on **software development** and **machine learning**.  
-I studied Systems Engineering at Pontificia Universidad Javeriana and currently, I'm working at [Periferia IT Group](https://periferiaitgroup.com) as a Technical Lead. 
+I studied Systems Engineering at Pontificia Universidad Javeriana and currently, I'm working at [GOU Payments](https://www.linkedin.com/company/gou-payments) as a Senior Development Analyst. 
 I enjoy mentoring developers, leading projects, and promoting best practices in software engineering.
 I'm passionate about continuous learning and always open to explore topics like data analytics, machine learning, and emerging technologies.
 
